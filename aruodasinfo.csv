@@ -1,0 +1,251 @@
+;adresas;kaina;kaina_kv;plotas;kambariai
+0;Vilnius, Burbiškės, Burbiškių g.;200860.0;3453.0;58.17;3.0
+1;Kaunas, Vilijampolė, Raudondvario pl.;47500.0;2317.0;20.5;2.0
+2;Vilnius, Senamiestis, Teatro g.;390000.0;6725.0;57.99;2.0
+3;Vilnius, Antakalnis, Duburio g.;168500.0;2462.0;68.44;3.0
+4;Palanga, S. Daukanto g.;435000.0;5959.0;73.0;4.0
+5;Palanga, S. Daukanto g.;312000.0;6933.0;45.0;3.0
+6;Kaunas, Žaliakalnis, Žeimenos g.;199000.0;2647.0;75.19;3.0
+7;Vilnius, Šnipiškės, Kalvarijų g.;127750.0;3901.0;32.75;1.0
+8;Vilnius, Šnipiškės, Konstitucijos pr.;324000.0;5438.0;59.58;2.0
+9;Kaunas, Žaliakalnis, Žemaičių g.;100737.0;1564.0;64.42;2.0
+10;Kaunas, Vaišvydava, Tursono g.;195000.0;952.0;204.84;4.0
+11;Klaipėda, Senamiestis, Teatro g.;170000.0;4545.0;37.4;1.0
+12;Palanga, Palanga, Saulėlydžio g.;179000.0;2183.0;82.0;3.0
+13;Klaipėda, Mokykla, Mokyklos g.;108000.0;2616.0;41.29;2.0
+14;Palanga, Vėžių g.;173000.0;3604.0;48.0;2.0
+15;Vilnius, Naujininkai, Kapsų g.;249000.0;4058.0;61.36;3.0
+16;Palanga, Palanga, Vėžių g.;160000.0;3478.0;46.0;2.0
+17;Kaunas, Žaliakalnis, Žalioji g.;73000.0;2808.0;26.0;2.0
+18;Kaunas, Žaliakalnis, Mituvos g.;77000.0;2406.0;32.0;2.0
+19;Vilnius, Pašilaičiai, Dociškių g.;150000.0;2921.0;51.36;2.0
+20;Klaipėda, Centras, Bijūnų g.;215000.0;4285.0;50.18;2.0
+21;Klaipėda, Šauliai, Ragainės g.;88000.0;2350.0;37.44;2.0
+22;Klaipėda, Centras, Danės g.;105000.0;2561.0;41.0;2.0
+23;Vilnius, Visoriai, Visorių g.;226000.0;3403.0;66.42;3.0
+24;Vilnius, Baltupiai, Kazio Ulvydo g.;315000.0;4011.0;78.53;3.0
+25;Palanga, Šventoji, Mėguvos g.;38940.0;1770.0;22.0;1.0
+26;Vilnius, Naujamiestis, Skroblų g.;182117.0;4137.0;44.02;2.0
+27;Vilnius, Bajorai, Salaspilio g.;164692.0;2440.0;67.5;3.0
+28;Palanga, Palanga, Saulėlydžio g.;135000.0;2213.0;61.0;2.0
+29;Vilnius, Santariškės, M. Bukšos g.;319968.0;3325.0;96.22;4.0
+30;Vilnius, Žirmūnai, Raitininkų g.;280000.0;5477.0;51.12;2.0
+31;Vilnius, Pašilaičiai, Pavilnionių g.;160000.0;2218.0;72.14;3.0
+32;Vilnius, Šnipiškės, Olimpiečių g.;995000.0;10160.0;97.93;3.0
+33;Vilnius, Senamiestis, Gedimino pr.;830000.0;5804.0;143.0;3.0
+34;Kaunas, Dainava, Taikos pr.;144999.0;2617.0;55.4;3.0
+35;Kaunas, Žemieji Šančiai, A. Juozapavičiaus pr.;125000.0;3000.0;41.67;2.0
+36;Vilnius, Markučiai, Kaukysos g.;219000.0;4844.0;45.21;2.0
+37;Vilnius, Žirmūnai, Žirmūnų g.;100900.0;3135.0;32.19;1.0
+38;Vilnius, Karoliniškės, Algimanto Petro Kavoliuko g.;133500.0;3018.0;44.24;2.0
+39;Vilnius, Pilaitė, I. Simonaitytės g.;145000.0;3152.0;46.0;2.0
+40;Vilnius, Karoliniškės, Algimanto Petro Kavoliuko g.;140000.0;3415.0;41.0;2.0
+41;Klaipėda, Alksnynė, Taikos pr.;170000.0;2024.0;84.0;3.0
+42;Vilnius, Justiniškės, Taikos g.;134900.0;2645.0;51.0;3.0
+43;Kaunas, Žaliakalnis, Kalniečių g.;69900.0;2377.0;29.41;1.0
+44;Vilnius, Pilaitė, Tvankstos g.;192000.0;3368.0;57.0;3.0
+45;Vilnius, Šnipiškės, Lvivo g.;164000.0;4316.0;38.0;2.0
+46;Vilnius, Justiniškės, Helsinkio g.;95000.0;2879.0;33.0;2.0
+47;Vilnius, Naujamiestis, Gerosios Vilties g.;239000.0;3918.0;61.0;3.0
+48;Kaunas, Dainava, Partizanų g.;49000.0;1633.0;30.0;1.0
+49;Vilnius, Naujamiestis, Eigulių g.;169000.0;4126.0;40.96;2.0
+50;Vilnius, Vilkpėdė, Eigulių g.;229000.0;4906.0;46.68;2.0
+51;Vilnius, Naujininkai, Kaminkelio g.;108000.0;3092.0;34.93;1.0
+52;Vilnius, Pilaitė, Pilkalnio g.;91222.0;2887.0;31.6;1.0
+53;Vilnius, Naujamiestis, Smolensko g.;86154.0;2731.0;31.55;2.0
+54;Vilnius, Naujamiestis, Vytenio g.;109600.0;4327.0;25.33;1.0
+55;Palanga, Mėguvos g.;111000.0;2467.0;45.0;2.0
+56;Vilnius, Lazdynėliai, Žaibo g.;166000.0;3773.0;44.0;2.0
+57;Klaipėda, Centras, Žiedų skg.;307000.0;2488.0;123.37;4.0
+58;Vilnius, Naujamiestis, Algirdo g.;126321.0;3900.0;32.39;1.0
+59;Vilnius, Naujamiestis, Marijampolės g.;168823.0;3850.0;43.85;2.0
+60;Vilnius, Karoliniškės, Sietyno g.;116875.0;2750.0;42.5;2.0
+61;Vilnius, Šnipiškės, Šatrijos g.;139400.0;4000.0;34.85;2.0
+62;Vilnius, Naujamiestis, Mindaugo g.;214900.0;4082.0;52.64;3.0
+63;Druskininkų m., Liepų g.;140610.0;2420.0;58.1;3.0
+64;Vilnius, Lazdynėliai, Žaibo g.;163000.0;3881.0;42.0;2.0
+65;Klaipėda, Žvejybos uostas, Nidos g.;67000.0;1182.0;56.68;2.0
+66;Klaipėda, Žardininkai, Žardininkų g.;76000.0;1188.0;64.0;3.0
+67;Kaunas, Freda, Europos pr.;83990.0;2745.0;30.6;2.0
+68;Vilnius, Lazdynai, Architektų g.;119000.0;2532.0;47.0;2.0
+69;Vilnius, Lazdynai, Architektų g.;174900.0;2610.0;67.01;4.0
+70;Vilnius, Šeškinė, Gelvonų g.;85500.0;3139.0;27.24;1.0
+71;Vilnius, Šeškinė, Čiobiškio g.;129000.0;2950.0;43.73;2.0
+72;Vilnius, Pašilaičiai, Perkūnkiemio g.;123900.0;1906.0;65.0;2.0
+73;Kaunas, Šilainiai, Naujakurių g.;104420.0;2299.0;45.41;2.0
+74;Palanga, Sergiškių g.;132000.0;2750.0;48.0;2.0
+75;Vilnius, Pašilaičiai, Pavilnionių g.;133500.0;2880.0;46.36;2.0
+76;Klaipėda, Labrenciškės, Kretingos g.;99850.0;2504.0;39.87;2.0
+77;Klaipėda, Labrenciškės, Kretingos g.;168624.0;2150.0;78.43;3.0
+78;Klaipėda, Labrenciškės, Kretingos g.;106075.0;2297.0;46.17;2.0
+79;Vilnius, Lazdynėliai, Žaibo g.;166000.0;3773.0;44.0;2.0
+80;Palanga, Palanga, Virbališkės tak.;187550.0;3907.0;48.0;2.0
+81;Palanga, Sergiškių g.;79000.0;3160.0;25.0;1.0
+82;Vilnius, Naujamiestis, Naugarduko g.;135000.0;2813.0;48.0;2.0
+83;Vilnius, Karoliniškės, Algimanto Petro Kavoliuko g.;199000.0;3044.0;65.38;3.0
+84;Vilnius, Paupys, Krivūlės g.;184000.0;5111.0;36.0;2.0
+85;Vilnius, Naujininkai, Naujininkų g.;115000.0;2091.0;55.0;2.0
+86;Kaunas, Panemunė, Vaidoto g.;38000.0;1719.0;22.11;2.0
+87;Kaunas, Panemunė, Vaidoto g.;37000.0;1576.0;23.47;1.0
+88;Vilnius, Viršuliškės, Viršilų g.;202000.0;3961.0;51.0;3.0
+89;Vilnius, Žvėrynas, Stumbrų g.;207940.0;3999.0;52.0;2.0
+90;Vilnius, Karoliniškės, Loretos Asanavičiūtės g.;106300.0;3082.0;34.49;2.0
+91;Vilnius, Justiniškės, Taikos g.;130300.0;3007.0;43.33;2.0
+92;Trakų r. sav., Lentvario m., Naujosios Sodybos g.;124700.0;1911.0;65.24;3.0
+93;Vilnius, Žvėrynas, Stumbrų g.;210900.0;4102.0;51.42;3.0
+94;Vilnius, Senamiestis, Vašingtono a.;370000.0;3700.0;100.0;4.0
+95;Palanga, Palanga, Paliepgirių kel.;239000.0;4109.0;58.17;3.0
+96;Kaunas, Dainava, Partizanų g.;72900.0;1726.0;42.24;2.0
+97;Vilnius, Antakalnis, Karių Kapų g.;309000.0;3786.0;81.62;2.0
+98;Vilnius, Užupis, Filaretų g.;192502.0;5800.0;33.19;2.0
+99;Alytus, Dainava, Vilties g.;59000.0;855.0;69.03;4.0
+100;Telšių m., Ežero g.;69000.0;1895.0;36.41;2.0
+101;Vilnius, Naujamiestis, Aguonų g.;149000.0;3641.0;40.92;2.0
+102;Kaunas, Žemutiniai Kaniūkai, Raudondvario pl.;192500.0;2070.0;93.0;4.0
+103;Kaunas, Žemieji Šančiai, Kranto al.;137500.0;2191.0;62.75;3.0
+104;Kaunas, Vilijampolė, Brastos g.;389000.0;3687.0;105.51;4.0
+105;Vilnius, Pašilaičiai, Laisvės pr.;288000.0;2382.0;120.93;4.0
+106;Kaunas, Senamiestis, Pilies g.;499999.0;6250.0;80.0;3.0
+107;Vilnius, Šnipiškės, Šatrijos g.;229000.0;5205.0;44.0;2.0
+108;Vilnius, Lazdynai, M. Mironaitės g.;159900.0;3476.0;46.0;2.0
+109;Palanga, Palanga, Vanagupės g.;355000.0;6928.0;51.24;2.0
+110;Vilnius, Senamiestis, Palangos g.;500000.0;3378.0;148.0;4.0
+111;Palanga, Vanagupės g.;299000.0;3462.0;86.36;4.0
+112;Vilnius, Senamiestis, J. Basanavičiaus g.;490000.0;3141.0;156.0;4.0
+113;Jonavos m., Geležinkelio g.;70000.0;963.0;72.67;3.0
+114;Kaunas, Žaliakalnis, Šimkaičių g.;195000.0;2786.0;70.0;3.0
+115;Klaipėda, Centras, Kuosų g.;139000.0;2206.0;63.0;2.0
+116;Vilnius, Žirmūnai, Kareivių g.;214423.0;3057.0;70.14;4.0
+117;Vilnius, Žvėrynas, A. Mickevičiaus g.;520000.0;6582.0;79.0;4.0
+118;Vilnius, Šnipiškės, Kalvarijų g.;179000.0;3972.0;45.07;2.0
+119;Klaipėda, Paupiai, Ragainės g.;135500.0;3196.0;42.4;2.0
+120;Vilnius, Žirmūnai, M. Katkaus g.;179000.0;3580.0;50.0;2.0
+121;Palanga, Palanga, Vytauto g.;219000.0;5230.0;41.87;2.0
+122;Vilnius, Lazdynėliai, Lazdynėlių g.;159900.0;2758.0;57.97;3.0
+123;Vilnius, Šiaurės miestelis, J. Galvydžio g.;139000.0;2985.0;46.57;2.0
+124;Klaipėda, Labrenciškės, Kretingos g.;177775.0;2090.0;85.06;4.0
+125;Klaipėda, Paupiai, Klemiškės g.;185000.0;3083.0;60.0;3.0
+126;Klaipėda, Senamiestis, J. Janonio g.;95000.0;2159.0;44.0;2.0
+127;Vilnius, Karoliniškės, Vytauto Vaitkaus g.;116000.0;3345.0;34.68;2.0
+128;Vilnius, Naujoji Vilnia, Dūmų g.;56000.0;1856.0;30.18;2.0
+129;Vilnius, Užupis, Krivių g.;195000.0;4333.0;45.0;2.0
+130;Vilnius, Markučiai, Manufaktūrų g.;232000.0;4901.0;47.34;2.0
+131;Visagino m., Sedulinos al.;46000.0;659.0;69.8;4.0
+132;Vilnius, Fabijoniškės, Salomėjos Nėries g.;150000.0;2399.0;62.53;2.0
+133;Vilnius, Senamiestis, Pylimo g.;690000.0;4825.0;143.0;4.0
+134;Kaunas, Žemieji Šančiai, A. Juozapavičiaus pr.;149999.0;2885.0;52.0;2.0
+135;Jonavos m., Kosmonautų g.;32000.0;1204.0;26.57;1.0
+136;Vilnius, Valakampiai, Svajonių g.;375000.0;3989.0;94.0;4.0
+137;Kauno r. sav., Jonučių II k., Versmės g.;73128.0;1825.0;40.07;2.0
+138;Šiauliai, Centras, Draugystės pr.;89000.0;1735.0;51.29;3.0
+139;Vilnius, Šiaurės miestelis, Žygio g.;183000.0;3027.0;60.46;2.0
+140;Vilnius, Markučiai, Manufaktūrų g.;420000.0;5185.0;81.0;4.0
+141;Palanga, Druskininkų g.;59000.0;2107.0;28.0;1.0
+142;Vilnius, Lazdynėliai, Neužmirštuolių g.;265000.0;2665.0;99.44;3.0
+143;Kaunas, Dainava, Partizanų g.;70000.0;2121.0;33.0;1.0
+144;Vilnius, Markučiai, Manufaktūrų g.;252000.0;5663.0;44.5;2.0
+145;Vilnius, Naujamiestis, Savanorių pr.;399000.0;3613.0;110.43;4.0
+146;Palanga, Vėžių g.;277200.0;3587.0;77.28;4.0
+147;Vilnius, Naujamiestis, Vinco Kudirkos g.;490000.0;3603.0;136.0;4.0
+148;Vilnius, Senamiestis, Teatro g.;400000.0;5195.0;77.0;3.0
+149;Vilnius, Šnipiškės, Kalvarijų g.;250000.0;3086.0;81.0;3.0
+150;Kaunas, Žemieji Šančiai, A. Juozapavičiaus pr.;180000.0;4055.0;44.39;2.0
+151;Panevėžys, Klaipėdos, Kosmonautų g.;70000.0;1343.0;52.11;2.0
+152;Trakų m., Linksmoji g.;81500.0;1990.0;40.95;2.0
+153;Vilnius, Lazdynėliai, Lazdynėlių g.;192900.0;3445.0;56.0;3.0
+154;Vilnius, Naujamiestis, T. Ševčenkos g.;95000.0;4556.0;20.85;2.0
+155;Klaipėda, Centras, Kauno g.;85000.0;2237.0;38.0;2.0
+156;Molėtų m., Mechanizatorių g.;119000.0;1486.0;80.06;4.0
+157;Druskininkų m., Neravų g.;85000.0;1838.0;46.25;2.0
+158;Vilnius, Šnipiškės, Sporto g.;167000.0;4039.0;41.35;2.0
+159;Vilnius, Žemieji Paneriai, Jankiškių g.;70000.0;2059.0;34.0;2.0
+160;Palanga, Vaivorykštės g.;72500.0;2553.0;28.4;2.0
+161;Vilnius, Antakalnis, Rokantiškių g.;95700.0;2393.0;40.0;2.0
+162;Vilnius, Naujininkai, Meistrų g.;48500.0;1940.0;25.0;1.0
+163;Vilnius, Pašilaičiai, Perkūnkiemio g.;104900.0;2498.0;42.0;2.0
+164;Druskininkų m., Vilniaus al.;249615.0;4300.0;58.05;2.0
+165;Šiauliai, Gytariai, Kviečių g.;74600.0;1157.0;64.47;3.0
+166;Šiauliai, Dainiai, Lyros g.;73800.0;1142.0;64.61;3.0
+167;Vilnius, Naujamiestis, Vytenio g.;220000.0;2734.0;80.48;3.0
+168;Vilnius, Šnipiškės, Rinktinės g.;44800.0;1896.0;23.63;1.0
+169;Vilnius, Bajorai, Bajorų kel.;149900.0;3885.0;38.58;2.0
+170;Kaunas, Petrašiūnai, T. Masiulio g.;110600.0;1964.0;56.3;3.0
+171;Druskininkų m., V. Kudirkos g.;116000.0;2896.0;40.05;1.0
+172;Akmenės r. sav., Naujosios Akmenės m., Nepriklausomybės al.;26000.0;565.0;46.0;2.0
+173;Palanga, Vanagupės g.;155000.0;3946.0;39.28;1.0
+174;Palanga, Šventoji, Mėguvos g.;109999.0;2275.0;48.35;2.0
+175;Kaunas, Aleksotas, Bitininkų g.;289999.0;3671.0;79.0;3.0
+176;Vilnius, Pašilaičiai, Eitminų g.;165000.0;2686.0;61.44;3.0
+177;Kaunas, Senamiestis, Šv. Gertrūdos g.;255000.0;2260.0;112.81;3.0
+178;Druskininkų m., Veisiejų g.;81000.0;1136.0;71.3;3.0
+179;Kaunas, Šilainiai, J. Grušo g.;91000.0;2459.0;37.0;1.0
+180;Širvintų m., Zibalų g.;25000.0;1058.0;23.63;1.0
+181;Klaipėda, Centras, J. Zauerveino g.;265000.0;3136.0;84.5;3.0
+182;Vilnius, Naujamiestis, Mindaugo g.;430000.0;5890.0;73.0;3.0
+183;Vilnius, Naujamiestis, Vinco Kudirkos g.;287000.0;3706.0;77.45;3.0
+184;Rietavo m., Daržų g.;89900.0;1404.0;64.01;3.0
+185;Neringos m., Vilų g.;110000.0;7161.0;15.36;1.0
+186;Utenos m., Aukštakalnis, Aukštakalnio g.;155000.0;2686.0;57.7;2.0
+187;Kaunas, Rokai, Girmuonio g.;91000.0;1287.0;70.69;4.0
+188;Klaipėda, Žvejybos uostas, Minijos g.;95000.0;2111.0;45.0;2.0
+189;Kaunas, Dainava, Partizanų g.;69500.0;1565.0;44.4;2.0
+190;Vilnius, Šeškinė, Fabijoniškių g.;199000.0;3980.0;50.0;2.0
+191;Vilnius, Žemieji Paneriai, Vaduvos g.;78000.0;1926.0;40.5;1.0
+192;Kėdainių m., Sodų g.;23000.0;688.0;33.45;2.0
+193;Kaunas, Žaliakalnis, P. Višinskio g.;72000.0;2118.0;34.0;2.0
+194;Kėdainių m., Pavasario g.;52000.0;1042.0;49.9;2.0
+195;Visagino m., Taikos pr.;19900.0;552.0;36.08;1.0
+196;Šiauliai, Rėkyva, Energetikų g.;62000.0;1161.0;53.42;2.0
+197;Klaipėda, Žvejybos uostas, Minijos g.;16500.0;807.0;20.44;1.0
+198;Elektrėnų m., Šviesos g.;89500.0;1462.0;61.2;3.0
+199;Širvintų m., Kalnalaukio g.;53000.0;1023.0;51.82;2.0
+200;Vilnius, Pilaitė, I. Simonaitytės g.;196000.0;2781.0;70.48;2.0
+201;Kaišiadorių r. sav., Pravieniškių k., Pravieniškių g.;24700.0;682.0;36.2;1.0
+202;Šilutės r. sav., Armalėnų k., Plytinės g.;28000.0;490.0;57.16;3.0
+203;Kelmės m., J. Janonio g.;50000.0;1000.0;50.0;2.0
+204;Švenčionių r. sav., Pabradės m., Arnionių g.;55000.0;1082.0;50.81;3.0
+205;Palanga, Palanga, Užkanavės g.;275000.0;5896.0;46.64;3.0
+206;Vilnius, Justiniškės, Rygos g.;109000.0;2124.0;51.33;2.0
+207;Kretingos m., Topolių aklg.;76800.0;1274.0;60.27;3.0
+208;Elektrėnų m., Sodų g.;55800.0;1250.0;44.63;2.0
+209;Elektrėnų m., Sodų g.;65800.0;1161.0;56.69;3.0
+210;Kaunas, Žaliakalnis, Gražinos g.;123000.0;1593.0;77.21;4.0
+211;Šiauliai, Zokniai, Radviliškio g.;72000.0;1241.0;58.0;3.0
+212;Vilnius, Naujamiestis, Vasario 16-osios g.;440000.0;4000.0;110.0;4.0
+213;Vilkaviškio r. sav., Paežerių k., Dvaro g.;29000.0;517.0;56.07;3.0
+214;Alytus, Vidzgiris, Jazminų g.;58000.0;870.0;66.69;3.0
+215;Vilnius, Šeškinė, Ukmergės g.;114900.0;2128.0;54.0;2.0
+216;Neringos m., Preilos g.;300000.0;6512.0;46.07;2.0
+217;Vilnius, Naujoji Vilnia, Pergalės g.;38000.0;2375.0;16.0;1.0
+218;Vilnius, Visoriai, Visorių g.;289000.0;2939.0;98.32;3.0
+219;Palanga, Palanga, Vaivorykštės g.;239000.0;4476.0;53.4;3.0
+220;Palanga, Palanga, Hipodromo g.;195000.0;4875.0;40.0;2.0
+221;Palanga, Palanga, Gintaro g.;165500.0;4769.0;34.7;2.0
+222;Vilnius, Šnipiškės, Kalvarijų g.;216000.0;2962.0;72.93;3.0
+223;Kaunas, Žaliakalnis, Varpo g.;255000.0;3468.0;73.54;3.0
+224;Panevėžys, Centras, Ramygalos g.;36000.0;1590.0;22.64;1.0
+225;Vilnius, Senamiestis, Rūdninkų g.;700000.0;6542.0;107.0;5.0
+226;Vilnius, Antakalnis, Mildos g.;349000.0;3753.0;93.0;3.0
+227;Akmenės r. sav., Ventos m., Ventos g.;23900.0;373.0;64.0;4.0
+228;Kauno r. sav., Pagynės k., Kikonių g.;30000.0;621.0;48.3;2.0
+229;Šilutės m., Eglių g.;62500.0;840.0;74.43;4.0
+230;Klaipėda, Senamiestis, Bangų g.;320000.0;5246.0;61.0;3.0
+231;Vilnius, Šnipiškės, Tuskulėnų g.;150000.0;3000.0;50.0;2.0
+232;Alytus, Senamiestis, Nemuno g.;91000.0;2275.0;40.0;2.0
+233;Vilnius, Bajorai, Bajorų kel.;117900.0;3976.0;29.65;1.0
+234;Klaipėdos r. sav., Dovilų mstl., Klaipėdos g.;56000.0;973.0;57.57;3.0
+235;Palanga, Palanga, Maironio g.;147000.0;2070.0;71.0;2.0
+236;Vilkaviškio m., Lauko g.;32000.0;669.0;47.81;2.0
+237;Klaipėdos r. sav., Gargždų m., Melioratorių g.;83000.0;1307.0;63.48;2.0
+238;Klaipėda, Centras, Taikos pr.;282500.0;4216.0;67.0;2.0
+239;Alytus, Putinai, Kalniškės g.;42500.0;1152.0;36.88;1.0
+240;Palanga, Šventoji, Mokyklos g.;127000.0;2190.0;58.0;2.0
+241;Vilnius, Žirmūnai, Žirmūnų g.;115000.0;2614.0;44.0;2.0
+242;Telšių m., Žemaitės g.;42000.0;857.0;49.0;2.0
+243;Pasvalio m., Taikos g.;65000.0;910.0;71.41;4.0
+244;Skuodo m., Vilniaus g.;42000.0;536.0;78.35;3.0
+245;Mažeikių m., Sodų g.;29500.0;968.0;30.48;1.0
+246;Šakių m., E. Steponaičio g.;43000.0;778.0;55.29;3.0
+247;Kaunas, Vičiūnai, Kiškių g.;220000.0;2588.0;85.0;3.0
+248;Vilnius, Pašilaičiai, Perkūnkiemio g.;133000.0;2608.0;51.0;2.0
+249;Palanga, Palanga, Brukšvos g.;379000.0;4512.0;84.0;3.0
