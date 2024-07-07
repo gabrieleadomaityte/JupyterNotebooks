@@ -18,9 +18,6 @@ def test_sudetis_2():
     faktinis_rezultatas = sudetis(num1, num2)
     assert rezultatas == faktinis_rezultatas, f'sudeties testas nepavyko: {num1} + {num2} turetu buti {rezultatas}, bet gavome {faktinis_rezultatas}'
 
-def rask_didziausia(a:int, b:int) -> int:
-    return a if a > b else b
-
 def test_rask_didziausia():
     num1, num2 = 10, 20
     rezultatas = 20
